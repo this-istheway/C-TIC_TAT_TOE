@@ -1,0 +1,2 @@
+C:\Users\offst\Desktop\tictattoe\ttt\Debug\ttt.exe
+C:\Users\offst\Desktop\tictattoe\ttt\Debug\ttt.pdb
